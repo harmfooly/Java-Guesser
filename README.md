@@ -69,7 +69,7 @@ while (keepPlaying) {
           Break loop once "H" or "L" is entered as feedback.
       } // end while loop
 
-          If "H" is entered, high becomes computerGuess -1
+          If "H" is entered, high becomes computerGuess - 1
           If "L" is entered, low becomes computerGuess + 1
           Catch If user makes a mistake (low > high)
           Catch invalid inputs
